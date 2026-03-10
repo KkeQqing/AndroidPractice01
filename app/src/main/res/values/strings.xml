@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test02_1</string>
+    <string name="setting_sign">个性签名</string>
+    <string name="setting_info">我的资料</string>
+    <string name="setting_notice">消息通知</string>
+    <string name="Setting_help">辅助功能</string>
+    <string name="setting_arr">></string>
+</resources>
